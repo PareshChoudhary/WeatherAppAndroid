@@ -1,0 +1,8 @@
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\bin\Debug\netstandard1.4\MyWeatherApp.Repository.deps.json
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\bin\Debug\netstandard1.4\MyWeatherApp.Repository.dll
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\bin\Debug\netstandard1.4\MyWeatherApp.Repository.pdb
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\obj\Debug\netstandard1.4\MyWeatherApp.Repository.AssemblyInfo.cs
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\obj\Debug\netstandard1.4\MyWeatherApp.Repository.dll
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\obj\Debug\netstandard1.4\MyWeatherApp.Repository.pdb
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\obj\Debug\netstandard1.4\MyWeatherApp.Repository.dll.mdb
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\bin\Debug\netstandard1.4\MyWeatherApp.Repository.dll.mdb

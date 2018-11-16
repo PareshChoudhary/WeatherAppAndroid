@@ -1,0 +1,4 @@
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\bin\Debug\netcoreapp1.1\MyWeatherApp.Repository.deps.json
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\bin\Debug\netcoreapp1.1\MyWeatherApp.Repository.dll
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\obj\Debug\netcoreapp1.1\MyWeatherApp.Repository.csprojResolveAssemblyReference.cache
+D:\Paresh\Xamarin Training\MyWeatherApp\MyWeatherApp\MyWeatherApp.Repository\obj\Debug\netcoreapp1.1\MyWeatherApp.Repository.AssemblyInfo.cs
